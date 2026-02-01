@@ -95,10 +95,6 @@ The machine learning model was trained using:
 - [ ] Model retraining functionality
 - [ ] Email spam detection support
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Vasanth**
@@ -114,8 +110,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For any queries or suggestions, feel free to reach out or open an issue in this repository.
-
----
 
 ⭐ If you found this project helpful, please consider giving it a star!
 
